@@ -31,21 +31,21 @@ Trakin Tech	14,500,000	2,708,297,180	3,996	UUEPL07qzVsOcHd3sMUws65g
 ## 5. Visualizations
 Several visualizations were created to understand the distribution and relationships between different metrics.
 
-# 5.1 Subscribers, Views, and Total Videos
+### 5.1 Subscribers, Views, and Total Videos
 Bar charts were generated for subscribers, views, and total videos for each channel.
 The view-to-subscriber ratio was calculated and visualized.
-# 5.2 Top 10 Videos
+### 5.2 Top 10 Videos
 Top 10 videos by views and likes were identified and plotted using bar charts.
-# 5.3 Scatter Plot
+### 5.3 Scatter Plot
 A scatter plot of views vs likes for the top 100 videos was created to visualize the relationship between these two metrics.
-# 5.4 Word Frequency Analysis
+### 5.4 Word Frequency Analysis
 Titles of all videos were analyzed to count the frequency of words.
 Words were also analyzed based on the average number of views they generated.
 ## 6. Detailed Analysis
-# 6.1 Channel-wise Analysis
+### 6.1 Channel-wise Analysis
 For each channel, detailed statistics were collected, including the number of subscribers, total views, and total videos. This helped in understanding the overall reach and engagement of each channel.
 
-# 6.2 Video-wise Analysis
+### 6.2 Video-wise Analysis
 A detailed breakdown of each video's statistics was performed, which included:
 
 Title, published date, description, tags.
